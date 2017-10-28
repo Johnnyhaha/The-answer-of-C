@@ -1,6 +1,6 @@
 # The-answer-of-C
 
-![书目录](https://github.com/Johnnyhaha/The-answer-of-C/raw/master/The-C-programming-Language.png)
+![书目录](https://github.com/Johnnyhaha/The-answer-of-C/raw/master/The%20C%20programming%20Language.png)
 
 我看了一些 Brian W. Kernighan 和 Dennis M. Ritchie 写的 “The C programming Language”
 现在上传一些练习题的答案。我只看到2.2单元，以后会全部上传。
