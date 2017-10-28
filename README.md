@@ -2,8 +2,8 @@
 
 ![书目录](https://github.com/Johnnyhaha/The-answer-of-C/raw/master/The%20C%20programming%20Language.png)
 
-我看了一些 Brian W. Kernighan 和 Dennis M. Ritchie 写的 “The C programming Language”
-现在上传一些练习题的答案。我只看到2.2单元，以后会全部上传。
+我看了一些 Brian W. Kernighan 和 Dennis M. Ritchie 写的 “The C programming Language”。
+现在上传一些练习题的答案。我只看到2.2单元，以后看完写完会全部上传。
 
 ## 附上对学习这本书具有极大参考价值的网站网址：
 [learntosolveit](http://www.learntosolveit.com/index.html)
